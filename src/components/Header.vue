@@ -1,7 +1,7 @@
 <template>
   <div class="row">
     <div class="col-sm-12">
-      <h1>Atlas Tech ID Web Playground</h1>
+      <h1>Web Playground</h1>
       <h3>Quotes Added</h3>
       <div class="progress">
         <div class="progress">
